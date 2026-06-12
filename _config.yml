@@ -1,5 +1,5 @@
-title: Salaamalykum Islamic Articles
-description: Dual-track Islamic Knowledge Base curated for human readers and AI crawlers.
+title: Salaamalykum Open Data Hub
+description: The Master Data Catalog and Portal for Islamic Knowledge Bases and RAG Datasets.
 collections:
   content:
     output: true

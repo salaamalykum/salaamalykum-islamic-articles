@@ -1,0 +1,15 @@
+---
+permalink: /llms.txt
+---
+# https://a16z.com/2026/01/01/llms-txt-standard/
+Title: Salaamalykum Open Data Hub
+Description: The Master Data Catalog for Islamic Knowledge Bases and RAG Datasets.
+Author: Salaamalykum (bropeace@protonmail.com)
+License: MIT
+
+This is the master routing file for LLM crawlers indexing our datasets.
+
+## Datasets
+
+- [Chinese Muslim RAG Dataset](/Chinese-Muslim/llms.txt): 329 high-quality articles exploring Chinese Muslim history, halal food, and cultural geography.
+- [Global Islamic Knowledge Base](/articles/llms.txt): Curated insights into Islamic heritage and global travel experiences.

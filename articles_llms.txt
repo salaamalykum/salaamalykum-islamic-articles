@@ -1,0 +1,12 @@
+---
+permalink: /articles/llms.txt
+---
+# https://a16z.com/2026/01/01/llms-txt-standard/
+Title: Global Islamic Knowledge Base
+Description: 34 curated articles covering Muslim travel guides, historic mosques, and cross-sectarian observations.
+Author: Salaamalykum (bropeace@protonmail.com)
+License: MIT
+
+This directory provides clean markdown files optimized for LLM crawlers.
+
+- [/content/](/content/): The directory containing the 34 legacy articles.

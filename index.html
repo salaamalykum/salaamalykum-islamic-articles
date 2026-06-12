@@ -1,89 +1,74 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DataCatalog",
+  "name": "Salaamalykum Open Data Hub",
+  "description": "The Master Data Catalog and Portal for Islamic Knowledge Bases and RAG Datasets.",
+  "url": "https://salaamalykum.github.io/"
+}
+</script>
+
 <div class="hero-section">
-    <h1 class="hero-title">Discover <span class="gradient-text">Islamic Knowledge</span></h1>
-    <p class="hero-subtitle">Explore 34 expertly curated articles covering Muslim travel guides, historic mosques, and cross-sectarian observations.</p>
-    
-    <!-- Premium Search & Filter Bar -->
-    <div class="search-container">
-        <input type="text" id="searchInput" placeholder="Search by title, keywords or tags..." class="search-input">
-    </div>
-    
-    <div class="filter-container" id="filterContainer">
-        <button class="filter-btn active" data-tag="all">All</button>
-        <!-- Popular tags dynamically mapped or hardcoded -->
-        <button class="filter-btn" data-tag="Singapore Muslim Travel">Singapore</button>
-        <button class="filter-btn" data-tag="Mosque">Mosques</button>
-        <button class="filter-btn" data-tag="Halal">Halal Food</button>
-        <button class="filter-btn" data-tag="History">History</button>
-    </div>
+    <h1 class="hero-title">Salaamalykum <span class="gradient-text">Open Data Hub</span></h1>
+    <p class="hero-subtitle">The master portal for AI training datasets, RAG corpuses, and curated Islamic knowledge bases.</p>
 </div>
 
-<div class="articles-grid" id="articlesGrid">
-    {% assign articles = site.pages | where: "layout", "article" | sort: "pub_date" | reverse %}
-    {% for article in articles %}
-    <a href="{{ article.url | relative_url }}" class="article-card" data-title="{{ article.title | downcase }}" data-tags="{{ article.tags | join: ',' | downcase }}">
+<div class="articles-grid" style="grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));">
+    
+    <!-- Chinese Muslim Dataset -->
+    <a href="/Chinese-Muslim/" class="article-card">
         <div class="card-content">
             <div class="card-tags">
-                {% for tag in article.tags limit:2 %}
-                <span class="card-tag">{{ tag }}</span>
-                {% endfor %}
+                <span class="card-tag">RAG</span>
+                <span class="card-tag">Chinese Muslim</span>
+                <span class="card-tag">329 Articles</span>
             </div>
-            <h2 class="card-title">{{ article.title }}</h2>
+            <h2 class="card-title">Chinese Muslim RAG Dataset</h2>
             <p class="card-excerpt">
-                An insightful look into Islamic heritage and travel experiences, written by {{ article.author | default: "Hasan09" }}.
+                A massive collection of 329 high-quality articles exploring Chinese Muslim history, halal food, and cultural geography. Optimized for AI crawlers with Parquet formats and Hugging Face integration.
             </p>
             <div class="card-footer">
-                <span class="card-date">{{ article.pub_date | date: "%b %d, %Y" }}</span>
-                <span class="read-more">Read Article →</span>
+                <span class="card-date">v1.0.0</span>
+                <span class="read-more">Explore Dataset →</span>
             </div>
         </div>
     </a>
-    {% endfor %}
+
+    <!-- Global Islamic Articles -->
+    <a href="/articles/" class="article-card">
+        <div class="card-content">
+            <div class="card-tags">
+                <span class="card-tag">Global Islam</span>
+                <span class="card-tag">34 Articles</span>
+            </div>
+            <h2 class="card-title">Global Islamic Knowledge Base</h2>
+            <p class="card-excerpt">
+                Curated insights into Islamic heritage, mosque architecture, and global travel experiences across the Muslim world.
+            </p>
+            <div class="card-footer">
+                <span class="card-date">Legacy</span>
+                <span class="read-more">Read Articles →</span>
+            </div>
+        </div>
+    </a>
+
+    <!-- Future Dataset Placeholder -->
+    <div class="article-card" style="opacity: 0.6; cursor: not-allowed;">
+        <div class="card-content">
+            <div class="card-tags">
+                <span class="card-tag" style="background: var(--text-muted);">Coming Soon</span>
+                <span class="card-tag">Theology</span>
+            </div>
+            <h2 class="card-title">Quran Semantic Search Dataset</h2>
+            <p class="card-excerpt">
+                Upcoming highly structured RAG dataset for Quranic exegesis and multi-lingual semantic retrieval.
+            </p>
+            <div class="card-footer">
+                <span class="card-date">In Development</span>
+            </div>
+        </div>
+    </div>
 </div>
-
-<!-- Search & Filter Logic -->
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const searchInput = document.getElementById('searchInput');
-    const filterBtns = document.querySelectorAll('.filter-btn');
-    const cards = document.querySelectorAll('.article-card');
-    
-    let currentTag = 'all';
-    let searchQuery = '';
-
-    function filterCards() {
-        cards.forEach(card => {
-            const title = card.getAttribute('data-title');
-            const tags = card.getAttribute('data-tags');
-            
-            const matchesSearch = title.includes(searchQuery) || tags.includes(searchQuery);
-            const matchesTag = currentTag === 'all' || tags.includes(currentTag.toLowerCase());
-            
-            if (matchesSearch && matchesTag) {
-                card.style.display = 'flex';
-            } else {
-                card.style.display = 'none';
-            }
-        });
-    }
-
-    searchInput.addEventListener('input', (e) => {
-        searchQuery = e.target.value.toLowerCase();
-        filterCards();
-    });
-
-    filterBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            // Remove active class from all
-            filterBtns.forEach(b => b.classList.remove('active'));
-            // Add to clicked
-            btn.classList.add('active');
-            // Update tag
-            currentTag = btn.getAttribute('data-tag');
-            filterCards();
-        });
-    });
-});
-</script>
