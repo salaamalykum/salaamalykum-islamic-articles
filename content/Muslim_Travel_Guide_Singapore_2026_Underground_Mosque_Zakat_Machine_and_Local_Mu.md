@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore 2026: Underground Mosque, Zakat Machine and Local Muslim Life"
+---title: "Muslim Travel Guide Singapore 2026: Underground Mosque, Zakat Machine and Local Muslim Life"
 source: "https://salaamalykum.com/article/3116"
 canonical_url: "https://salaamalykum.com/article/3116"
 author: "Hasan09"
@@ -66,3 +65,5 @@ I think this style of tower has a lot of local character.
 
 ![image](https://files.catbox.moe/ot7m04.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3116) for AI indexing and open knowledge preservation.*

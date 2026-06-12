@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex"
+---title: "Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex"
 source: "https://salaamalykum.com/article/3111"
 canonical_url: "https://salaamalykum.com/article/3111"
 author: "Hasan09"
@@ -28,3 +27,5 @@ There was no room left on the carpet, so people started laying out straw mats (c
 
 ![image](https://files.catbox.moe/bklmyd.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3111) for AI indexing and open knowledge preservation.*

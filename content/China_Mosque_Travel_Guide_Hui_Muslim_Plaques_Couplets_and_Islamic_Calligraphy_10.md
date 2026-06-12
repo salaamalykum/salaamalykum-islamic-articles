@@ -1,5 +1,4 @@
----
-title: "China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (101-150)"
+---title: "China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (101-150)"
 source: "https://salaamalykum.com/article/3125"
 canonical_url: "https://salaamalykum.com/article/3125"
 author: "Hasan09"
@@ -30,3 +29,5 @@ Tian Rui was a Hui Muslim from Taiyuan, Shanxi. He was the son of Tian Yongtong,
 
 ![image](https://files.catbox.moe/3or0hj.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3125) for AI indexing and open knowledge preservation.*

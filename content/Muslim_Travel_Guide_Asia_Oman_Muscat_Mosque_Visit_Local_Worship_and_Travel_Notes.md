@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Asia: Oman Muscat Mosque Visit, Local Worship and Travel Notes"
+---title: "Muslim Travel Guide Asia: Oman Muscat Mosque Visit, Local Worship and Travel Notes"
 source: "https://salaamalykum.com/article/3099"
 canonical_url: "https://salaamalykum.com/article/3099"
 author: "Hasan09"
@@ -40,3 +39,5 @@ On the walls, besides the small stained-glass windows, I also found the entire Q
 
 ![image](https://files.catbox.moe/bnokvv.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3099) for AI indexing and open knowledge preservation.*

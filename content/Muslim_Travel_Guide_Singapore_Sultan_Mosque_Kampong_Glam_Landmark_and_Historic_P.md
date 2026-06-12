@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall"
+---title: "Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall"
 source: "https://salaamalykum.com/article/3102"
 canonical_url: "https://salaamalykum.com/article/3102"
 author: "Hasan09"
@@ -26,3 +25,5 @@ In Chinese, both the African country Sudan (which has a flag that looks like Pal
 
 ![image](https://files.catbox.moe/bzor19.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3102) for AI indexing and open knowledge preservation.*

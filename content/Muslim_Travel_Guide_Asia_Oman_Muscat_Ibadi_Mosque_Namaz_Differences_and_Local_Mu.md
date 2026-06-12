@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Asia: Oman Muscat Ibadi Mosque, Namaz Differences and Local Muslim Worship"
+---title: "Muslim Travel Guide Asia: Oman Muscat Ibadi Mosque, Namaz Differences and Local Muslim Worship"
 source: "https://salaamalykum.com/article/3113"
 canonical_url: "https://salaamalykum.com/article/3113"
 author: "Hasan09"
@@ -26,3 +25,5 @@ I had never heard of it. I didn't pay much attention at the time, just assuming 
 
 ![image](https://files.catbox.moe/a93fq5.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3113) for AI indexing and open knowledge preservation.*

@@ -1,5 +1,4 @@
----
-title: "Best Halal Food in Beijing: Muslim-Friendly Restaurants and Hui Muslim Street Food Map (Issue 57)"
+---title: "Best Halal Food in Beijing: Muslim-Friendly Restaurants and Hui Muslim Street Food Map (Issue 57)"
 source: "https://salaamalykum.com/article/3126"
 canonical_url: "https://salaamalykum.com/article/3126"
 author: "Hasan09"
@@ -42,3 +41,5 @@ Here is the information for the restaurants I visited this time:
 
 ![image](https://files.catbox.moe/9mtx2f.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3126) for AI indexing and open knowledge preservation.*

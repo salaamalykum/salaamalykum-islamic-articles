@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Haja Fatimah Mosque, Western Minaret and Historic Prayer Hall"
+---title: "Muslim Travel Guide Singapore: Haja Fatimah Mosque, Western Minaret and Historic Prayer Hall"
 source: "https://salaamalykum.com/article/3112"
 canonical_url: "https://salaamalykum.com/article/3112"
 author: "Hasan09"
@@ -42,3 +41,5 @@ As I put my shoes on to leave, I noticed the floor tiles (Figure 11) were actual
 
 ![image](https://files.catbox.moe/9v6j8z.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3112) for AI indexing and open knowledge preservation.*

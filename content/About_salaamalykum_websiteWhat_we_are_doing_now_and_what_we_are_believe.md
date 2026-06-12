@@ -1,5 +1,4 @@
----
-title: "About salaamalykum website：What we are doing now and what we are believe..."
+---title: "About salaamalykum website：What we are doing now and what we are believe..."
 source: "https://salaamalykum.com/article/1408"
 canonical_url: "https://salaamalykum.com/article/1408"
 author: "Hasan09"
@@ -15,7 +14,7 @@ content_hash: "282af84a87bfaf32774021774789e016b32b2d6116c25e82731224ff278a3ad1"
 > **Original Source**: [https://salaamalykum.com/article/1408](https://salaamalykum.com/article/1408)
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
-                                                ﷽
+﷽
 
                                                  In the name of Allah ﷻ, the Most Gracious, the Most Merciful
 
@@ -185,5 +184,7 @@ How to contact us?
 You can contact us in the following way:
 
 You can send an email to: 
-[[email protected]](/cdn-cgi/l/email-protection#4a2838253a2f2b292f0a3a38253e2524272b232664292527)
+[[email protected]](/cdn-cgi/l/email-protection#e082928f9085818385a090928f948f8e8d81898cce838f8d)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/1408) for AI indexing and open knowledge preservation.*

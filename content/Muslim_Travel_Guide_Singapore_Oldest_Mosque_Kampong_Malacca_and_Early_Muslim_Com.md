@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Oldest Mosque, Kampong Malacca and Early Muslim Community"
+---title: "Muslim Travel Guide Singapore: Oldest Mosque, Kampong Malacca and Early Muslim Community"
 source: "https://salaamalykum.com/article/3097"
 canonical_url: "https://salaamalykum.com/article/3097"
 author: "Hasan09"
@@ -28,3 +27,5 @@ Back to the main topic, the roof of this oldest mosque in Singapore (Picture 1) 
 
 ![image](https://files.catbox.moe/6unaki.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3097) for AI indexing and open knowledge preservation.*

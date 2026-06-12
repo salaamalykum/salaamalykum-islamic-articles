@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Nagore Dargah, Sufi Gongbei and South Indian Muslim Heritage"
+---title: "Muslim Travel Guide Singapore: Nagore Dargah, Sufi Gongbei and South Indian Muslim Heritage"
 source: "https://salaamalykum.com/article/3119"
 canonical_url: "https://salaamalykum.com/article/3119"
 author: "Hasan09"
@@ -32,3 +31,5 @@ It is in Nagapattinam, Tamil Nadu, South India (Image 13). It was built to honor
 
 ![image](https://files.catbox.moe/sme9mh.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3119) for AI indexing and open knowledge preservation.*

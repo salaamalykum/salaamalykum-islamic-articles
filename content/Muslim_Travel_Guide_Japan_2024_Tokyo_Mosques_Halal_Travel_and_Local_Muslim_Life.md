@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Japan 2024: Tokyo Mosques, Halal Travel and Local Muslim Life"
+---title: "Muslim Travel Guide Japan 2024: Tokyo Mosques, Halal Travel and Local Muslim Life"
 source: "https://salaamalykum.com/article/3122"
 canonical_url: "https://salaamalykum.com/article/3122"
 author: "Hasan09"
@@ -34,3 +33,5 @@ Once I actually stepped onto Japanese soil, I realized those claims were very on
 
 ![image](https://files.catbox.moe/ct8otk.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3122) for AI indexing and open knowledge preservation.*

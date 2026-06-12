@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes"
+---title: "Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes"
 source: "https://salaamalykum.com/article/3117"
 canonical_url: "https://salaamalykum.com/article/3117"
 author: "Hasan09"
@@ -34,3 +33,5 @@ I later asked him if Iran was really going to move its capital. He said every go
 
 ![image](https://files.catbox.moe/9se8qd.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3117) for AI indexing and open knowledge preservation.*

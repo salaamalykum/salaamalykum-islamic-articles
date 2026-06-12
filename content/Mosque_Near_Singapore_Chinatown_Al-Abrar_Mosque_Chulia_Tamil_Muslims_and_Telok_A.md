@@ -1,5 +1,4 @@
----
-title: "Mosque Near Singapore Chinatown: Al-Abrar Mosque, Chulia Tamil Muslims and Telok Ayer Heritage"
+---title: "Mosque Near Singapore Chinatown: Al-Abrar Mosque, Chulia Tamil Muslims and Telok Ayer Heritage"
 source: "https://salaamalykum.com/article/3105"
 canonical_url: "https://salaamalykum.com/article/3105"
 author: "Hasan09"
@@ -32,3 +31,5 @@ When I entered the mosque, the first thing I noticed was that the prayer hall ha
 
 ![image](https://files.catbox.moe/qcs30m.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3105) for AI indexing and open knowledge preservation.*

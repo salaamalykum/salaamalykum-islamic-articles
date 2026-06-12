@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall"
+---title: "Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall"
 source: "https://salaamalykum.com/article/3109"
 canonical_url: "https://salaamalykum.com/article/3109"
 author: "Hasan09"
@@ -28,3 +27,5 @@ The ceiling (Image 3) is low, but it has an open design that shows the wooden st
 
 ![image](https://files.catbox.moe/hm8a9v.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3109) for AI indexing and open knowledge preservation.*

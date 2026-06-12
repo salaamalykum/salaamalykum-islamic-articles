@@ -1,5 +1,4 @@
----
-title: "Business Identity Get Verified, Build Trust And Transparency"
+---title: "Business Identity Get Verified, Build Trust And Transparency"
 source: "https://salaamalykum.com/article/1410"
 canonical_url: "https://salaamalykum.com/article/1410"
 author: "Hasan09"
@@ -73,5 +72,5 @@ What is the fees of Identity get verified?
 
 the whole kyc process doesn't charge any fees.
 
- 
-
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/1410) for AI indexing and open knowledge preservation.*

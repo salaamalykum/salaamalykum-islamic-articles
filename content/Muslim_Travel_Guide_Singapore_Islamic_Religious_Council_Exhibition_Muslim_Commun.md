@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Islamic Religious Council Exhibition, Muslim Community and Heritage"
+---title: "Muslim Travel Guide Singapore: Islamic Religious Council Exhibition, Muslim Community and Heritage"
 source: "https://salaamalykum.com/article/3110"
 canonical_url: "https://salaamalykum.com/article/3110"
 author: "Hasan09"
@@ -28,3 +27,5 @@ For example, look at the wooden object hanging in the first picture.
 
 ![image](https://files.catbox.moe/uelonq.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3110) for AI indexing and open knowledge preservation.*

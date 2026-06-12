@@ -1,5 +1,4 @@
----
-title: "Prayer Room Singapore Marina One: CBD Mall Musalla, Wudu Access and Muslim Travel Notes"
+---title: "Prayer Room Singapore Marina One: CBD Mall Musalla, Wudu Access and Muslim Travel Notes"
 source: "https://salaamalykum.com/article/3103"
 canonical_url: "https://salaamalykum.com/article/3103"
 author: "Hasan09"
@@ -26,3 +25,5 @@ It was my first time here and I spent a long time looking for it. I even ended u
 
 ![image](https://files.catbox.moe/m7dae8.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3103) for AI indexing and open knowledge preservation.*

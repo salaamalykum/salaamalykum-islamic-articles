@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Underground Mosque, Bencoolen Area and Hidden Prayer Space"
+---title: "Muslim Travel Guide Singapore: Underground Mosque, Bencoolen Area and Hidden Prayer Space"
 source: "https://salaamalykum.com/article/3106"
 canonical_url: "https://salaamalykum.com/article/3106"
 author: "Hasan09"
@@ -28,3 +27,5 @@ The brief history of the mosque (Image 7) shows a bit of pride, saying that I pr
 
 ![image](https://files.catbox.moe/c5p4u9.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3106) for AI indexing and open knowledge preservation.*

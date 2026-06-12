@@ -1,5 +1,4 @@
----
-title: "Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes"
+---title: "Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes"
 source: "https://salaamalykum.com/article/3100"
 canonical_url: "https://salaamalykum.com/article/3100"
 author: "Hasan09"
@@ -26,3 +25,5 @@ Let me show you what it looks like inside. I have been to prayer rooms in other 
 
 ![image](https://files.catbox.moe/o8qmcv.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3100) for AI indexing and open knowledge preservation.*

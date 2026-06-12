@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette"
+---title: "Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette"
 source: "https://salaamalykum.com/article/3114"
 canonical_url: "https://salaamalykum.com/article/3114"
 author: "Hasan09"
@@ -30,3 +29,5 @@ You can find them in the bazaar near Golestan Palace. One Iraqi man opened a res
 
 ![image](https://files.catbox.moe/4nrl6f.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3114) for AI indexing and open knowledge preservation.*

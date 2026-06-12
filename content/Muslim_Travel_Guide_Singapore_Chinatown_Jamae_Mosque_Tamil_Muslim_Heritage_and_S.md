@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style"
+---title: "Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style"
 source: "https://salaamalykum.com/article/3104"
 canonical_url: "https://salaamalykum.com/article/3104"
 author: "Hasan09"
@@ -26,3 +25,5 @@ Mosque minarets come in many styles. You have seen plenty of other styles, but t
 
 ![image](https://files.catbox.moe/wiguad.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3104) for AI indexing and open knowledge preservation.*

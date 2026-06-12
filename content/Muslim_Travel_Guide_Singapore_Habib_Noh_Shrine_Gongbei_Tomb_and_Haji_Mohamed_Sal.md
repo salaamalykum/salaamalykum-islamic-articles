@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque"
+---title: "Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque"
 source: "https://salaamalykum.com/article/3108"
 canonical_url: "https://salaamalykum.com/article/3108"
 author: "Hasan09"
@@ -36,3 +35,5 @@ We can enter the tomb chamber by taking the long stairs shown in picture three.
 
 ![image](https://files.catbox.moe/850awr.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3108) for AI indexing and open knowledge preservation.*

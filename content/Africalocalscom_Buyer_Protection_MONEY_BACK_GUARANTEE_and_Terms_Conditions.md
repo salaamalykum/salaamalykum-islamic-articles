@@ -1,5 +1,4 @@
----
-title: "Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions"
+---title: "Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions"
 source: "https://salaamalykum.com/article/1172"
 canonical_url: "https://salaamalykum.com/article/1172"
 author: "Hasan09"
@@ -17,3 +16,5 @@ content_hash: "33764d0c56cb10bfda1f45925ace4ce89f42124a0d34500051ce0bd336304a66"
 
 ![image](https://www.kiwikiwifly.com/up ... 8.png)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/1172) for AI indexing and open knowledge preservation.*

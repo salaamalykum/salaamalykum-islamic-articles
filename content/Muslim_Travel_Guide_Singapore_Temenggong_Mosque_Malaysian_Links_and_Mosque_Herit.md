@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Singapore: Temenggong Mosque, Malaysian Links and Mosque Heritage"
+---title: "Muslim Travel Guide Singapore: Temenggong Mosque, Malaysian Links and Mosque Heritage"
 source: "https://salaamalykum.com/article/3120"
 canonical_url: "https://salaamalykum.com/article/3120"
 author: "Hasan09"
@@ -30,3 +29,5 @@ The mosque is a single-story octagonal building, as you can see in picture six.
 
 ![image](https://files.catbox.moe/dcfk6c.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3120) for AI indexing and open knowledge preservation.*

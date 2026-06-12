@@ -1,5 +1,4 @@
----
-title: "Prayer Room Singapore Sentosa: Resort Musalla, Beach Area and Muslim Visitor Notes"
+---title: "Prayer Room Singapore Sentosa: Resort Musalla, Beach Area and Muslim Visitor Notes"
 source: "https://salaamalykum.com/article/3107"
 canonical_url: "https://salaamalykum.com/article/3107"
 author: "Hasan09"
@@ -32,3 +31,5 @@ There is an arrow on the floor of the prayer room pointing toward the Kaaba in M
 
 ![image](https://files.catbox.moe/8zahso.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3107) for AI indexing and open knowledge preservation.*

@@ -1,5 +1,4 @@
----
-title: "China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100)"
+---title: "China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100)"
 source: "https://salaamalykum.com/article/3124"
 canonical_url: "https://salaamalykum.com/article/3124"
 author: "Hasan09"
@@ -32,3 +31,5 @@ Tian Yongtong was a Hui Muslim general from Taiyuan, Shanxi. He became a militar
 
 ![image](https://files.catbox.moe/pht89h.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3124) for AI indexing and open knowledge preservation.*

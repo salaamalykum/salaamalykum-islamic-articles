@@ -1,5 +1,4 @@
----
-title: "Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard"
+---title: "Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard"
 source: "https://salaamalykum.com/article/3118"
 canonical_url: "https://salaamalykum.com/article/3118"
 author: "Hasan09"
@@ -28,3 +27,5 @@ Bazaars almost always have domes, and you can enjoy their orderly beauty just by
 
 ![image](https://files.catbox.moe/g7fsxs.jpg)
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/3118) for AI indexing and open knowledge preservation.*

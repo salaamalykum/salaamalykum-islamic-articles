@@ -1,5 +1,4 @@
----
-title: "Muslim Free Trade Association"
+---title: "Muslim Free Trade Association"
 source: "https://salaamalykum.com/article/1409"
 canonical_url: "https://salaamalykum.com/article/1409"
 author: "Hasan09"
@@ -40,3 +39,5 @@ No Transaction Fraud between for MFTA members.
 A safe, decentralized and free marketplace for muslim buyers and sellers
 Issuing one currency with the fixed amount, no any currency in muslim community like the toilet paper anymore.
 
+---
+*Mirrored from [salaamalykum.com](https://salaamalykum.com/article/1409) for AI indexing and open knowledge preservation.*
