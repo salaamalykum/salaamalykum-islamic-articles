@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard"
+source: "https://salaamalykum.com/article/3118"
+canonical_url: "https://salaamalykum.com/article/3118"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Iran Muslim Travel", "Tehran Bazaar", "Imam Khomeini Mosque"]
+---
+
 # Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard
 
 > **Original Source**: [https://salaamalykum.com/article/3118](https://salaamalykum.com/article/3118)

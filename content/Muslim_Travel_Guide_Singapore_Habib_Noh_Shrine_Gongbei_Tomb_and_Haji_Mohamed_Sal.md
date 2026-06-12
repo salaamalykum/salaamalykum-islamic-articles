@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque"
+source: "https://salaamalykum.com/article/3108"
+canonical_url: "https://salaamalykum.com/article/3108"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Singapore Muslim Travel", "Haji Mohamed Salleh Mosque", "Habib Noh Shrine"]
+---
+
 # Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque
 
 > **Original Source**: [https://salaamalykum.com/article/3108](https://salaamalykum.com/article/3108)

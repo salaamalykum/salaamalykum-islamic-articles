@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 2)"
+source: "https://salaamalykum.com/article/3123"
+canonical_url: "https://salaamalykum.com/article/3123"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Muslim Visitor", "Prayer Rooms", "Singapore Mosques"]
+---
+
 # Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 1)
 
 > **Original Source**: [https://salaamalykum.com/article/3121](https://salaamalykum.com/article/3121)

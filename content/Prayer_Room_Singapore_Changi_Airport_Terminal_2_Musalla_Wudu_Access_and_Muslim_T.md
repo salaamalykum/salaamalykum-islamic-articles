@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Prayer Room Singapore Changi Airport: Terminal 2 Musalla, Wudu Access and Muslim Transit Guide"
+source: "https://salaamalykum.com/article/3098"
+canonical_url: "https://salaamalykum.com/article/3098"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Muslim Transit", "Prayer Room", "Changi Airport"]
+---
+
 # Prayer Room Singapore Changi Airport: Terminal 2 Musalla, Wudu Access and Muslim Transit Guide
 
 > **Original Source**: [https://salaamalykum.com/article/3098](https://salaamalykum.com/article/3098)

@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette"
+source: "https://salaamalykum.com/article/3114"
+canonical_url: "https://salaamalykum.com/article/3114"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Prayer Etiquette", "Namaz", "Shia Mosque"]
+---
+
 # Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette
 
 > **Original Source**: [https://salaamalykum.com/article/3114](https://salaamalykum.com/article/3114)

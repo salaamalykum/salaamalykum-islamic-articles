@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style"
+source: "https://salaamalykum.com/article/3104"
+canonical_url: "https://salaamalykum.com/article/3104"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Singapore Mosque", "Tamil Muslims", "Jamae Mosque"]
+---
+
 # Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style
 
 > **Original Source**: [https://salaamalykum.com/article/3104](https://salaamalykum.com/article/3104)

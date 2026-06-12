@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "About salaamalykum website：What we are doing now and what we are believe..."
+source: "https://salaamalykum.com/article/1408"
+canonical_url: "https://salaamalykum.com/article/1408"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Muslim website", "About salaamalykum website"]
+---
+
 # About salaamalykum website：What we are doing now and what we are believe...
 
 > **Original Source**: [https://salaamalykum.com/article/1408](https://salaamalykum.com/article/1408)

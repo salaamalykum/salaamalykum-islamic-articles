@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex"
+source: "https://salaamalykum.com/article/3111"
+canonical_url: "https://salaamalykum.com/article/3111"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Singapore Mosque", "Prayer Hall", "Singapore Islamic Centre"]
+---
+
 # Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex
 
 > **Original Source**: [https://salaamalykum.com/article/3111](https://salaamalykum.com/article/3111)

@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes"
+source: "https://salaamalykum.com/article/3117"
+canonical_url: "https://salaamalykum.com/article/3117"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Qom", "Tehran", "Iran Muslim Travel"]
+---
+
 # Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes
 
 > **Original Source**: [https://salaamalykum.com/article/3117](https://salaamalykum.com/article/3117)

@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore 2026: Habib Noh Shrine, Changi Airport Prayer Rooms and Mosque Route"
+source: "https://salaamalykum.com/article/3115"
+canonical_url: "https://salaamalykum.com/article/3115"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Habib Noh Shrine", "Changi Airport", "Singapore Mosque Route"]
+---
+
 # Muslim Travel Guide Singapore 2026: Habib Noh Shrine, Changi Airport Prayer Rooms and Mosque Route
 
 > **Original Source**: [https://salaamalykum.com/article/3115](https://salaamalykum.com/article/3115)

@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes"
+source: "https://salaamalykum.com/article/3100"
+canonical_url: "https://salaamalykum.com/article/3100"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Muslim Transit", "Prayer Room", "Doha Airport"]
+---
+
 # Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes
 
 > **Original Source**: [https://salaamalykum.com/article/3100](https://salaamalykum.com/article/3100)

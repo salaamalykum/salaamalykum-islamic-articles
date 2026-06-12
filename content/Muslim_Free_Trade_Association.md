@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Free Trade Association"
+source: "https://salaamalykum.com/article/1409"
+canonical_url: "https://salaamalykum.com/article/1409"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["muslim currency", "United Community of Muslims", "Muslim Free Trade Association"]
+---
+
 # Muslim Free Trade Association
 
 > **Original Source**: [https://salaamalykum.com/article/1409](https://salaamalykum.com/article/1409)

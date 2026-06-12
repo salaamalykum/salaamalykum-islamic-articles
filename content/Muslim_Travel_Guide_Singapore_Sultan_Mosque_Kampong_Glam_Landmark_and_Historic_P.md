@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall"
+source: "https://salaamalykum.com/article/3102"
+canonical_url: "https://salaamalykum.com/article/3102"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Kampong Glam", "Singapore Muslim Travel", "Sultan Mosque"]
+---
+
 # Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall
 
 > **Original Source**: [https://salaamalykum.com/article/3102](https://salaamalykum.com/article/3102)

@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions"
+source: "https://salaamalykum.com/article/1172"
+canonical_url: "https://salaamalykum.com/article/1172"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Africalocals.com", "Buyer Protection"]
+---
+
 # Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions
 
 > **Original Source**: [https://salaamalykum.com/article/1172](https://salaamalykum.com/article/1172)

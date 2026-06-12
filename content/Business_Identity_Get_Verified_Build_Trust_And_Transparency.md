@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Business Identity Get Verified, Build Trust And Transparency"
+source: "https://salaamalykum.com/article/1410"
+canonical_url: "https://salaamalykum.com/article/1410"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["KYC", "Business Identity", "Verify Identity"]
+---
+
 # Business Identity Get Verified, Build Trust And Transparency
 
 > **Original Source**: [https://salaamalykum.com/article/1410](https://salaamalykum.com/article/1410)

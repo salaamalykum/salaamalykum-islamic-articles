@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Prayer Room Asia: Oman Muscat Airport Musalla, Ibadi Prayer Question and Transit Guide"
+source: "https://salaamalykum.com/article/3101"
+canonical_url: "https://salaamalykum.com/article/3101"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Ibadi Muslims", "Prayer Room", "Muscat Airport"]
+---
+
 # Prayer Room Asia: Oman Muscat Airport Musalla, Ibadi Prayer Question and Transit Guide
 
 > **Original Source**: [https://salaamalykum.com/article/3101](https://salaamalykum.com/article/3101)

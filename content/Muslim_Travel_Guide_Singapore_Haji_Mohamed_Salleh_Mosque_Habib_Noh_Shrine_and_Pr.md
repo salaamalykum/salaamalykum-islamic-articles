@@ -1,4 +1,15 @@
 ---
+layout: article
+title: "Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall"
+source: "https://salaamalykum.com/article/3109"
+canonical_url: "https://salaamalykum.com/article/3109"
+author: "Hasan09"
+pub_date: "2026-06-12T12:01:15Z"
+lastmod: "2026-06-12T12:01:15Z"
+lang: "zh-CN"
+tags: ["Singapore Mosque", "Habib Noh Shrine", "Haji Mohamed Salleh Mosque"]
+---
+
 # Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall
 
 > **Original Source**: [https://salaamalykum.com/article/3109](https://salaamalykum.com/article/3109)
