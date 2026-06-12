@@ -1,4 +1,4 @@
-# 📖 Salaamalykum Islamic Knowledge Base — AI-Optimized Article Repository
+# 📖 Salaamalykum Islamic Knowledge Base 
 
 > **بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم**
 
