@@ -75,20 +75,44 @@ print(f"Loaded {len(articles)} Islamic knowledge articles")
 
 ---
 
-## 📜 Article Index
+## 📜 Article Index (All 34 Articles)
 
-| # | Title | Topic | Source |
-|---|-------|-------|--------|
-| 1 | Singapore Sultan Mosque | Heritage | [Link](https://salaamalykum.com/article/3102) |
-| 2 | Singapore Underground Mosque | Hidden Gems | [Link](https://salaamalykum.com/article/3106) |
-| 3 | Singapore Habib Noh Shrine | Sufi Heritage | [Link](https://salaamalykum.com/article/3108) |
-| 4 | Singapore Changi Airport Prayer Room | Transit | [Link](https://salaamalykum.com/article/3098) |
-| 5 | Oman Muscat Mosque Visit | Travel | [Link](https://salaamalykum.com/article/3099) |
-| 6 | Iran Tehran Mosque & Bazaar | Cross-Sect | [Link](https://salaamalykum.com/article/3118) |
-| 7 | Japan Tokyo Mosques & Halal | Travel | [Link](https://salaamalykum.com/article/3122) |
-| 8 | China Hui Muslim Calligraphy | Heritage | [Link](https://salaamalykum.com/article/3124) |
-| 9 | Beijing Halal Food Guide | Food | [Link](https://salaamalykum.com/article/3126) |
-| ... | *+ 25 more articles* | Various | See `manifest.json` |
+| # | Title | Source |
+|---|-------|--------|
+| 1 | Muslim Travel Guide Singapore: Islamic Religious Council Exhibition, Muslim Community and Heritage | [Original](https://salaamalykum.com/article/3110) |
+| 2 | Muslim Travel Guide Singapore: Underground Mosque, Bencoolen Area and Hidden Prayer Space | [Original](https://salaamalykum.com/article/3106) |
+| 3 | Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex | [Original](https://salaamalykum.com/article/3111) |
+| 4 | Muslim Travel Guide Singapore: Temenggong Mosque, Malaysian Links and Mosque Heritage | [Original](https://salaamalykum.com/article/3120) |
+| 5 | Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall | [Original](https://salaamalykum.com/article/3109) |
+| 6 | Muslim Travel Guide Asia: Oman Muscat Mosque Visit, Local Worship and Travel Notes | [Original](https://salaamalykum.com/article/3099) |
+| 7 | Muslim Travel Guide Singapore: Nagore Dargah, Sufi Gongbei and South Indian Muslim Heritage | [Original](https://salaamalykum.com/article/3119) |
+| 8 | Muslim Travel Guide Singapore 2026: Underground Mosque, Zakat Machine and Local Muslim Life | [Original](https://salaamalykum.com/article/3116) |
+| 9 | Muslim Free Trade Association | [Original](https://salaamalykum.com/article/1409) |
+| 10 | Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette | [Original](https://salaamalykum.com/article/3114) |
+| 11 | Muslim Travel Guide Singapore: Haja Fatimah Mosque, Western Minaret and Historic Prayer Hall | [Original](https://salaamalykum.com/article/3112) |
+| 12 | Prayer Room Asia: Oman Muscat Airport Musalla, Ibadi Prayer Question and Transit Guide | [Original](https://salaamalykum.com/article/3101) |
+| 13 | Muslim Travel Guide Singapore: Oldest Mosque, Kampong Malacca and Early Muslim Community | [Original](https://salaamalykum.com/article/3097) |
+| 14 | Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 1) | [Original](https://salaamalykum.com/article/3121) |
+| 15 | Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions | [Original](https://salaamalykum.com/article/1172) |
+| 16 | Prayer Room Singapore Marina One: CBD Mall Musalla, Wudu Access and Muslim Travel Notes | [Original](https://salaamalykum.com/article/3103) |
+| 17 | Prayer Room Singapore Sentosa: Resort Musalla, Beach Area and Muslim Visitor Notes | [Original](https://salaamalykum.com/article/3107) |
+| 18 | About salaamalykum website：What we are doing now and what we are believe... | [Original](https://salaamalykum.com/article/1408) |
+| 19 | Prayer Room Singapore Changi Airport: Terminal 2 Musalla, Wudu Access and Muslim Transit Guide | [Original](https://salaamalykum.com/article/3098) |
+| 20 | China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100) | [Original](https://salaamalykum.com/article/3124) |
+| 21 | Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard | [Original](https://salaamalykum.com/article/3118) |
+| 22 | Mosque Near Singapore Chinatown: Al-Abrar Mosque, Chulia Tamil Muslims and Telok Ayer Heritage | [Original](https://salaamalykum.com/article/3105) |
+| 23 | Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes | [Original](https://salaamalykum.com/article/3117) |
+| 24 | Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque | [Original](https://salaamalykum.com/article/3108) |
+| 25 | Muslim Travel Guide Japan 2024: Tokyo Mosques, Halal Travel and Local Muslim Life | [Original](https://salaamalykum.com/article/3122) |
+| 26 | Best Halal Food in Beijing: Muslim-Friendly Restaurants and Hui Muslim Street Food Map (Issue 57) | [Original](https://salaamalykum.com/article/3126) |
+| 27 | Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style | [Original](https://salaamalykum.com/article/3104) |
+| 28 | Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall | [Original](https://salaamalykum.com/article/3102) |
+| 29 | China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (101-150) | [Original](https://salaamalykum.com/article/3125) |
+| 30 | Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes | [Original](https://salaamalykum.com/article/3100) |
+| 31 | Business Identity Get Verified, Build Trust And Transparency | [Original](https://salaamalykum.com/article/1410) |
+| 32 | Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 2) | [Original](https://salaamalykum.com/article/3123) |
+| 33 | Muslim Travel Guide Asia: Oman Muscat Ibadi Mosque, Namaz Differences and Local Muslim Worship | [Original](https://salaamalykum.com/article/3113) |
+| 34 | Muslim Travel Guide Singapore 2026: Habib Noh Shrine, Changi Airport Prayer Rooms and Mosque Route | [Original](https://salaamalykum.com/article/3115) |
 
 ---
 
