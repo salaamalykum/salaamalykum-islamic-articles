@@ -4,11 +4,26 @@ layout: default
 <div class="hero-section">
     <h1 class="hero-title">Discover <span class="gradient-text">Islamic Knowledge</span></h1>
     <p class="hero-subtitle">Explore 34 expertly curated articles covering Muslim travel guides, historic mosques, and cross-sectarian observations.</p>
+    
+    <!-- Premium Search & Filter Bar -->
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search by title, keywords or tags..." class="search-input">
+    </div>
+    
+    <div class="filter-container" id="filterContainer">
+        <button class="filter-btn active" data-tag="all">All</button>
+        <!-- Popular tags dynamically mapped or hardcoded -->
+        <button class="filter-btn" data-tag="Singapore Muslim Travel">Singapore</button>
+        <button class="filter-btn" data-tag="Mosque">Mosques</button>
+        <button class="filter-btn" data-tag="Halal">Halal Food</button>
+        <button class="filter-btn" data-tag="History">History</button>
+    </div>
 </div>
 
-<div class="articles-grid">
-    {% for article in site.content %}
-    <a href="{{ article.url | relative_url }}" class="article-card">
+<div class="articles-grid" id="articlesGrid">
+    {% assign articles = site.pages | where: "layout", "article" | sort: "pub_date" | reverse %}
+    {% for article in articles %}
+    <a href="{{ article.url | relative_url }}" class="article-card" data-title="{{ article.title | downcase }}" data-tags="{{ article.tags | join: ',' | downcase }}">
         <div class="card-content">
             <div class="card-tags">
                 {% for tag in article.tags limit:2 %}
@@ -17,7 +32,6 @@ layout: default
             </div>
             <h2 class="card-title">{{ article.title }}</h2>
             <p class="card-excerpt">
-                <!-- Using regex via liquid to strip markdown and show preview is hard, so we'll just show metadata -->
                 An insightful look into Islamic heritage and travel experiences, written by {{ article.author | default: "Hasan09" }}.
             </p>
             <div class="card-footer">
@@ -28,3 +42,48 @@ layout: default
     </a>
     {% endfor %}
 </div>
+
+<!-- Search & Filter Logic -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const searchInput = document.getElementById('searchInput');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('.article-card');
+    
+    let currentTag = 'all';
+    let searchQuery = '';
+
+    function filterCards() {
+        cards.forEach(card => {
+            const title = card.getAttribute('data-title');
+            const tags = card.getAttribute('data-tags');
+            
+            const matchesSearch = title.includes(searchQuery) || tags.includes(searchQuery);
+            const matchesTag = currentTag === 'all' || tags.includes(currentTag.toLowerCase());
+            
+            if (matchesSearch && matchesTag) {
+                card.style.display = 'flex';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+
+    searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value.toLowerCase();
+        filterCards();
+    });
+
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            // Remove active class from all
+            filterBtns.forEach(b => b.classList.remove('active'));
+            // Add to clicked
+            btn.classList.add('active');
+            // Update tag
+            currentTag = btn.getAttribute('data-tag');
+            filterCards();
+        });
+    });
+});
+</script>
