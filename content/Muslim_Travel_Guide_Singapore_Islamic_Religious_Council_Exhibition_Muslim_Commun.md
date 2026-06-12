@@ -16,7 +16,7 @@ The exhibition mainly features items used by Singaporean Muslims in their religi
 For example, look at the wooden object hanging in the first picture.
 
 ![image](https://files.catbox.moe/uelonq.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Islamic Religious Council Exhibition, Muslim Community and Heritage

@@ -20,7 +20,7 @@ The prayer room is divided for men and women, with the men's side on the right. 
 There is an arrow on the floor of the prayer room pointing toward the Kaaba in Mecca (Figure 8). By the entrance, there is a rack (Figure 9) with prayer mats hanging on it. You lay one on the floor when you use it and are expected to hang it back up when you are finished.
 
 ![image](https://files.catbox.moe/8zahso.jpg)
-
+layout: article
 ---
 
 # Prayer Room Singapore Sentosa: Resort Musalla, Beach Area and Muslim Visitor Notes

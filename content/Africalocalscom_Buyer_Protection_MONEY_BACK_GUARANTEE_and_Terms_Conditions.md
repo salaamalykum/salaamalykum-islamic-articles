@@ -5,7 +5,7 @@
 > **Author**: Hasan09 @ [Salaamalykum](https://salaamalykum.com)
 
 ![image](https://www.kiwikiwifly.com/up ... 8.png)
-
+layout: article
 ---
 
 # Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions

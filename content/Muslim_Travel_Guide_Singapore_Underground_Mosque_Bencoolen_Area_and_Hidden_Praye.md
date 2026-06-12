@@ -16,7 +16,7 @@ People would sneak inside to perform namaz. But this mosque in Singapore is diff
 The brief history of the mosque (Image 7) shows a bit of pride, saying that I probably haven't seen many mosques built underground.
 
 ![image](https://files.catbox.moe/c5p4u9.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Underground Mosque, Bencoolen Area and Hidden Prayer Space

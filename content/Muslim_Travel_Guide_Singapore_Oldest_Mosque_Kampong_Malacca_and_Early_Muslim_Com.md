@@ -16,7 +16,7 @@ That is a few years later than this mosque.
 Back to the main topic, the roof of this oldest mosque in Singapore (Picture 1) looks very much like a traditional Malay hut.
 
 ![image](https://files.catbox.moe/6unaki.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Oldest Mosque, Kampong Malacca and Early Muslim Community

@@ -30,7 +30,7 @@ Here is the information for the restaurants I visited this time:
 1. Wanhe Halal Beef
 
 ![image](https://files.catbox.moe/9mtx2f.jpg)
-
+layout: article
 ---
 
 # Best Halal Food in Beijing: Muslim-Friendly Restaurants and Hui Muslim Street Food Map (Issue 57)

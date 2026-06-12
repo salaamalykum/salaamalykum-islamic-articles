@@ -61,7 +61,7 @@ What is the fees of Identity get verified?
  
 
 the whole kyc process doesn't charge any fees.
-
+layout: article
 ---
 
 # Business Identity Get Verified, Build Trust And Transparency

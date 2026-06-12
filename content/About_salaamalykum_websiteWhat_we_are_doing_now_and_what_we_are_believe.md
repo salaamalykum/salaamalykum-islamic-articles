@@ -175,7 +175,7 @@ You can contact us in the following way:
 
 You can send an email to: 
 [[email protected]](/cdn-cgi/l/email-protection#e082928f9085818385a090928f948f8e8d81898cce838f8d)
-
+layout: article
 ---
 
 # About salaamalykum website：What we are doing now and what we are believe...

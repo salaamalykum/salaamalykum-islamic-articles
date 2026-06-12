@@ -22,7 +22,7 @@ He then talked about international relations. He said he really dislikes Israel 
 I later asked him if Iran was really going to move its capital. He said every government talks about moving the capital, but it involves too many people, so it is impossible to actually move. We reached the destination, and I said goodbye to the uncle.
 
 ![image](https://files.catbox.moe/9se8qd.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes

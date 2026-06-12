@@ -16,7 +16,7 @@ The market feels like a ghost town on Friday, but as soon as Friday passes, it q
 Bazaars almost always have domes, and you can enjoy their orderly beauty just by looking up. (Photo 1)
 
 ![image](https://files.catbox.moe/g7fsxs.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard

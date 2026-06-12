@@ -14,7 +14,7 @@ I have posted about this place before, but this is an update to my previous cont
 In Chinese, both the African country Sudan (which has a flag that looks like Palestine's) and the Islamic royal title Sultan are transliterated using the same two characters, 'Sudan'.
 
 ![image](https://files.catbox.moe/bzor19.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall

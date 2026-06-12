@@ -28,7 +28,7 @@ No Tax for business owners.
 No Transaction Fraud between for MFTA members.
 A safe, decentralized and free marketplace for muslim buyers and sellers
 Issuing one currency with the fixed amount, no any currency in muslim community like the toilet paper anymore.
-
+layout: article
 ---
 
 # Muslim Free Trade Association

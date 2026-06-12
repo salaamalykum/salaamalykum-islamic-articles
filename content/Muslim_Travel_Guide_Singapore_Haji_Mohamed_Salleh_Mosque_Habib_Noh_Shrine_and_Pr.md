@@ -16,7 +16,7 @@ The prayer hall is not very large, but it is small and beautiful. The interior d
 The ceiling (Image 3) is low, but it has an open design that shows the wooden structure. This keeps the ceiling from feeling heavy, as a solid ceiling in such a low room would make people feel cramped.
 
 ![image](https://files.catbox.moe/hm8a9v.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall

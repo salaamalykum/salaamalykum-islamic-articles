@@ -30,7 +30,7 @@ A Quran study class was being held in the main hall, where a teacher was teachin
 As I put my shoes on to leave, I noticed the floor tiles (Figure 11) were actually quite special; each color block was a separate piece, and the whole pattern had to be pieced together to form the design.
 
 ![image](https://files.catbox.moe/9v6j8z.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Haja Fatimah Mosque, Western Minaret and Historic Prayer Hall

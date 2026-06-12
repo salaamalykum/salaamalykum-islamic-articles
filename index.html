@@ -1,48 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Salaamalykum Articles</title>
-    <style>body{font-family:sans-serif;max-width:800px;margin:40px auto;line-height:1.6;}</style>
-</head>
-<body>
-    <h1>Salaamalykum Islamic Knowledge Base</h1>
-    <p>Last updated: 2026-06-12T12:01:15Z</p>
-    <ul>
-      <li><a href='https://salaamalykum.com/article/3110'>Muslim Travel Guide Singapore: Islamic Religious Council Exhibition, Muslim Community and Heritage</a></li>
-      <li><a href='https://salaamalykum.com/article/3106'>Muslim Travel Guide Singapore: Underground Mosque, Bencoolen Area and Hidden Prayer Space</a></li>
-      <li><a href='https://salaamalykum.com/article/3111'>Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex</a></li>
-      <li><a href='https://salaamalykum.com/article/3120'>Muslim Travel Guide Singapore: Temenggong Mosque, Malaysian Links and Mosque Heritage</a></li>
-      <li><a href='https://salaamalykum.com/article/3109'>Muslim Travel Guide Singapore: Haji Mohamed Salleh Mosque, Habib Noh Shrine and Prayer Hall</a></li>
-      <li><a href='https://salaamalykum.com/article/3099'>Muslim Travel Guide Asia: Oman Muscat Mosque Visit, Local Worship and Travel Notes</a></li>
-      <li><a href='https://salaamalykum.com/article/3119'>Muslim Travel Guide Singapore: Nagore Dargah, Sufi Gongbei and South Indian Muslim Heritage</a></li>
-      <li><a href='https://salaamalykum.com/article/3116'>Muslim Travel Guide Singapore 2026: Underground Mosque, Zakat Machine and Local Muslim Life</a></li>
-      <li><a href='https://salaamalykum.com/article/1409'>Muslim Free Trade Association</a></li>
-      <li><a href='https://salaamalykum.com/article/3114'>Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette</a></li>
-      <li><a href='https://salaamalykum.com/article/3112'>Muslim Travel Guide Singapore: Haja Fatimah Mosque, Western Minaret and Historic Prayer Hall</a></li>
-      <li><a href='https://salaamalykum.com/article/3101'>Prayer Room Asia: Oman Muscat Airport Musalla, Ibadi Prayer Question and Transit Guide</a></li>
-      <li><a href='https://salaamalykum.com/article/3097'>Muslim Travel Guide Singapore: Oldest Mosque, Kampong Malacca and Early Muslim Community</a></li>
-      <li><a href='https://salaamalykum.com/article/3121'>Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 1)</a></li>
-      <li><a href='https://salaamalykum.com/article/1172'>Africalocals.com Buyer Protection, MONEY BACK GUARANTEE and Terms & Conditions</a></li>
-      <li><a href='https://salaamalykum.com/article/3103'>Prayer Room Singapore Marina One: CBD Mall Musalla, Wudu Access and Muslim Travel Notes</a></li>
-      <li><a href='https://salaamalykum.com/article/3107'>Prayer Room Singapore Sentosa: Resort Musalla, Beach Area and Muslim Visitor Notes</a></li>
-      <li><a href='https://salaamalykum.com/article/1408'>About salaamalykum website：What we are doing now and what we are believe...</a></li>
-      <li><a href='https://salaamalykum.com/article/3098'>Prayer Room Singapore Changi Airport: Terminal 2 Musalla, Wudu Access and Muslim Transit Guide</a></li>
-      <li><a href='https://salaamalykum.com/article/3124'>China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100)</a></li>
-      <li><a href='https://salaamalykum.com/article/3118'>Muslim Travel Guide Iran Tehran: Imam Khomeini Mosque, Grand Bazaar Food and Wudu Courtyard</a></li>
-      <li><a href='https://salaamalykum.com/article/3105'>Mosque Near Singapore Chinatown: Al-Abrar Mosque, Chulia Tamil Muslims and Telok Ayer Heritage</a></li>
-      <li><a href='https://salaamalykum.com/article/3117'>Muslim Travel Guide Iran Tehran and Qom: Local Muslim Life, Mosques and Travel Notes</a></li>
-      <li><a href='https://salaamalykum.com/article/3108'>Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque</a></li>
-      <li><a href='https://salaamalykum.com/article/3122'>Muslim Travel Guide Japan 2024: Tokyo Mosques, Halal Travel and Local Muslim Life</a></li>
-      <li><a href='https://salaamalykum.com/article/3126'>Best Halal Food in Beijing: Muslim-Friendly Restaurants and Hui Muslim Street Food Map (Issue 57)</a></li>
-      <li><a href='https://salaamalykum.com/article/3104'>Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style</a></li>
-      <li><a href='https://salaamalykum.com/article/3102'>Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam Landmark and Historic Prayer Hall</a></li>
-      <li><a href='https://salaamalykum.com/article/3125'>China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (101-150)</a></li>
-      <li><a href='https://salaamalykum.com/article/3100'>Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes</a></li>
-      <li><a href='https://salaamalykum.com/article/1410'>Business Identity Get Verified, Build Trust And Transparency</a></li>
-      <li><a href='https://salaamalykum.com/article/3123'>Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 2)</a></li>
-      <li><a href='https://salaamalykum.com/article/3113'>Muslim Travel Guide Asia: Oman Muscat Ibadi Mosque, Namaz Differences and Local Muslim Worship</a></li>
-      <li><a href='https://salaamalykum.com/article/3115'>Muslim Travel Guide Singapore 2026: Habib Noh Shrine, Changi Airport Prayer Rooms and Mosque Route</a></li>
-    </ul>
-</body>
-</html>
+---
+layout: default
+---
+<div class="hero-section">
+    <h1 class="hero-title">Discover <span class="gradient-text">Islamic Knowledge</span></h1>
+    <p class="hero-subtitle">Explore 34 expertly curated articles covering Muslim travel guides, historic mosques, and cross-sectarian observations.</p>
+</div>
+
+<div class="articles-grid">
+    {% for article in site.content %}
+    <a href="{{ article.url | relative_url }}" class="article-card">
+        <div class="card-content">
+            <div class="card-tags">
+                {% for tag in article.tags limit:2 %}
+                <span class="card-tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
+            <h2 class="card-title">{{ article.title }}</h2>
+            <p class="card-excerpt">
+                <!-- Using regex via liquid to strip markdown and show preview is hard, so we'll just show metadata -->
+                An insightful look into Islamic heritage and travel experiences, written by {{ article.author | default: "Hasan09" }}.
+            </p>
+            <div class="card-footer">
+                <span class="card-date">{{ article.pub_date | date: "%b %d, %Y" }}</span>
+                <span class="read-more">Read Article →</span>
+            </div>
+        </div>
+    </a>
+    {% endfor %}
+</div>

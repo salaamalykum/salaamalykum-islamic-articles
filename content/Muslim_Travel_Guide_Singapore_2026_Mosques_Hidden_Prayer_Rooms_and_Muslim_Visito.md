@@ -274,7 +274,7 @@ After seeing so many mosques, let us now take a look at a prayer room. What is t
 7. The prayer room at Marina One
 
 Marina One is a shopping mall in the CBD area near the Singapore waterfront. According to the map, there is a prayer room in this underground mall. I spent a long time looking for it on my first visit and even asked an Indian security guard at the nearby parking lot where the prayer room was. The security guard was very kind and pointed me in the right direction. The prayer room is on the B2 level, which is the first floor down. You can see the Singapore landmark, Marina Bay Sands, from the mall entrance. After going down, follow the path and you will see a round window. It looks like a laundry shop decorated to look like a washing machine. The prayer room is right next to this laundry shop. The prayer room is easy to find because it is marked with a dome and a star and crescent symbol. Open this door and you will see a small door on both the left and the right. Men go to the left and women to the right to pray separately. The prayer room is right th
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore 2026: Mosques, Hidden Prayer Rooms and Muslim Visitor Route (Part 2)

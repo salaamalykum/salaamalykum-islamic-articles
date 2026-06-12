@@ -18,7 +18,7 @@ Inscribed by Tian Rui, Prefect of Huai'an.
 Tian Rui was a Hui Muslim from Taiyuan, Shanxi. He was the son of Tian Yongtong, a military jinshi scholar from the 28th year of the Qianlong reign. He served as Prefect of Huai'an and Yangzhou and wrote a poetry collection called 'Yigai Pavilion Poetry Drafts' (Yigaiting Shichao).
 
 ![image](https://files.catbox.moe/3or0hj.jpg)
-
+layout: article
 ---
 
 # China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (101-150)

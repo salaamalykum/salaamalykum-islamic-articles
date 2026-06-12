@@ -18,7 +18,7 @@ This mosque was reportedly once the audience hall of the Temenggong's palace bef
 The mosque is a single-story octagonal building, as you can see in picture six.
 
 ![image](https://files.catbox.moe/dcfk6c.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Temenggong Mosque, Malaysian Links and Mosque Heritage

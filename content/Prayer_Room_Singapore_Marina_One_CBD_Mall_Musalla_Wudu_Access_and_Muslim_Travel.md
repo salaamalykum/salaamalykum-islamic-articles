@@ -14,7 +14,7 @@ There is a shopping mall in Singapore's Central Business District called Marina 
 It was my first time here and I spent a long time looking for it. I even ended up in the parking lot, and only found the right place after an Indian security guard helped me. Actually, it is quite easy to find. Go down the escalator, turn right into the mall, and you will see the prayer room at a glance.
 
 ![image](https://files.catbox.moe/m7dae8.jpg)
-
+layout: article
 ---
 
 # Prayer Room Singapore Marina One: CBD Mall Musalla, Wudu Access and Muslim Travel Notes

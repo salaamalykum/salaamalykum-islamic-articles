@@ -22,7 +22,7 @@ When I read those articles, I had big doubts about whether they were true.
 Once I actually stepped onto Japanese soil, I realized those claims were very one-sided.
 
 ![image](https://files.catbox.moe/ct8otk.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Japan 2024: Tokyo Mosques, Halal Travel and Local Muslim Life

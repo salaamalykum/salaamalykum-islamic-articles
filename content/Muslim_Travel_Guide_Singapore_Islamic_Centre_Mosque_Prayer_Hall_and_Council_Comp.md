@@ -16,7 +16,7 @@ The second floor was also quite crowded, with people lining up to perform wudu.
 There was no room left on the carpet, so people started laying out straw mats (caoxi) (Image 5) to use as prayer rugs.
 
 ![image](https://files.catbox.moe/bklmyd.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Islamic Centre Mosque, Prayer Hall and Council Complex

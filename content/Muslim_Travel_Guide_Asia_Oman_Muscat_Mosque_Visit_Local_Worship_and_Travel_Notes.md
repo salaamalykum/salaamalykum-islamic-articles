@@ -28,7 +28,7 @@ Since I arrived at the mosque, I decided to go inside and take a look. I waited 
 On the walls, besides the small stained-glass windows, I also found the entire Quran carved into the surface (photos 11 and 12). We actually have this back home in China, too; the Great Mosque of Xi'an on Huajue Lane, located inside the Muslim Quarter (Huimin Jie), has Quranic wood carvings in its prayer hall.
 
 ![image](https://files.catbox.moe/bnokvv.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Asia: Oman Muscat Mosque Visit, Local Worship and Travel Notes

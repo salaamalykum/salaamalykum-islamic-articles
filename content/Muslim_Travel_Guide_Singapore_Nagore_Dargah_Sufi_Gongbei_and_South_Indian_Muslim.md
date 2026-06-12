@@ -20,7 +20,7 @@ So, where is the real grave?
 It is in Nagapattinam, Tamil Nadu, South India (Image 13). It was built to honor the Sufi saint Shahul Hamid. That shrine is very grand and has many white towers.
 
 ![image](https://files.catbox.moe/sme9mh.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Nagore Dargah, Sufi Gongbei and South Indian Muslim Heritage

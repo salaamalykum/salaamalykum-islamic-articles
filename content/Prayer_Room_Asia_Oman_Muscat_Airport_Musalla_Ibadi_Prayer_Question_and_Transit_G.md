@@ -12,7 +12,7 @@ Summary:
 When I left Oman for Iran, I visited the prayer room here for the first time. I wanted to see if the way Ibadi Muslims pray is any different. Unfortunately, I did not see it then.
 
 ![image](https://files.catbox.moe/5tivmk.jpg)
-
+layout: article
 ---
 
 # Prayer Room Asia: Oman Muscat Airport Musalla, Ibadi Prayer Question and Transit Guide

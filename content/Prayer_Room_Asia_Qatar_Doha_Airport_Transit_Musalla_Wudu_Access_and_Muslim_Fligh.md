@@ -14,7 +14,7 @@ I left Iran and returned to Oman. After a short stay in Oman, I started my journ
 Let me show you what it looks like inside. I have been to prayer rooms in other airports, including those in Oman, Singapore, Malaysia, and Iran, but the prayer room at Doha Airport in Qatar has the largest area for wudu (small ablution) I have ever seen.
 
 ![image](https://files.catbox.moe/o8qmcv.jpg)
-
+layout: article
 ---
 
 # Prayer Room Asia: Qatar Doha Airport Transit Musalla, Wudu Access and Muslim Flight Notes

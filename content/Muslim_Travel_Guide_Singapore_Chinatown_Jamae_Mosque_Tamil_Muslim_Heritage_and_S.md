@@ -14,7 +14,7 @@ My phone died just as I was about to finish this last time. When I turned it bac
 Mosque minarets come in many styles. You have seen plenty of other styles, but this South Indian style is quite rare.
 
 ![image](https://files.catbox.moe/wiguad.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore Chinatown: Jamae Mosque, Tamil Muslim Heritage and South Indian Style

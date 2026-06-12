@@ -20,7 +20,7 @@ Renovated by his great-great-grandson Zhenjing in the 31st year of the Republic 
 Tian Yongtong was a Hui Muslim general from Taiyuan, Shanxi. He became a military Jinshi scholar in the 28th year of the Qianlong reign and rose to the rank of Commander-in-Chief of Jiangnan.
 
 ![image](https://files.catbox.moe/pht89h.jpg)
-
+layout: article
 ---
 
 # China Mosque Travel Guide: Hui Muslim Plaques, Couplets and Islamic Calligraphy (51-100)

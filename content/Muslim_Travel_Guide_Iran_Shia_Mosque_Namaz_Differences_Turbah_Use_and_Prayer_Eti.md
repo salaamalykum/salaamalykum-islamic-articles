@@ -18,7 +18,7 @@ According to my guide, before the Iran-Iraq War started, a group of Shia Iraqis 
 You can find them in the bazaar near Golestan Palace. One Iraqi man opened a restaurant here and even gives free tea to passersby. (Photo 1)
 
 ![image](https://files.catbox.moe/4nrl6f.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Iran Shia Mosque: Namaz Differences, Turbah Use and Prayer Etiquette

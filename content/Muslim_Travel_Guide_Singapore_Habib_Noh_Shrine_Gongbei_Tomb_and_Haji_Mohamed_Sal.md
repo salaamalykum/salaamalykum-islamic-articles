@@ -24,7 +24,7 @@ People say that after he passed away, they tried to move his body to a cemetery,
 We can enter the tomb chamber by taking the long stairs shown in picture three.
 
 ![image](https://files.catbox.moe/850awr.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore: Habib Noh Shrine, Gongbei Tomb and Haji Mohamed Salleh Mosque

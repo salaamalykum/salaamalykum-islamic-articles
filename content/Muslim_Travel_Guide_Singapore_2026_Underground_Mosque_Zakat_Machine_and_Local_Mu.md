@@ -54,7 +54,7 @@ Look at its minaret; it is square. If you made this tower wider and added bright
 I think this style of tower has a lot of local character.
 
 ![image](https://files.catbox.moe/ot7m04.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore 2026: Underground Mosque, Zakat Machine and Local Muslim Life

@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
 title: Salaamalykum Islamic Articles
 description: Dual-track Islamic Knowledge Base curated for human readers and AI crawlers.
+collections:
+  content:
+    output: true
+    permalink: /article/:path/
+
+markdown: kramdown
+kramdown:
+  input: GFM

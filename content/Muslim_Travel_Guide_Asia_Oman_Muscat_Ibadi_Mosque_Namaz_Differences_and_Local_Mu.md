@@ -14,7 +14,7 @@ The title plays on Khomeini's famous line: neither East nor West, only Islam. Wh
 I had never heard of it. I didn't pay much attention at the time, just assuming it was somewhere in Central Asia. I checked before leaving Beijing and found it is the capital of Oman, a Gulf country in the Middle East.
 
 ![image](https://files.catbox.moe/a93fq5.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Asia: Oman Muscat Ibadi Mosque, Namaz Differences and Local Muslim Worship

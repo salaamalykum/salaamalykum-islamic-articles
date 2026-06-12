@@ -20,7 +20,7 @@ The entrance still features three languages: Arabic on the main gate, English on
 When I entered the mosque, the first thing I noticed was that the prayer hall has an inner sanctuary (Figure 5). I first turned left to the ablution room to perform wudu, then went to the inner sanctuary in the center of the prayer hall.
 
 ![image](https://files.catbox.moe/qcs30m.jpg)
-
+layout: article
 ---
 
 # Mosque Near Singapore Chinatown: Al-Abrar Mosque, Chulia Tamil Muslims and Telok Ayer Heritage

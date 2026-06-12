@@ -18,7 +18,7 @@ All four terminals at Singapore Changi Airport have a prayer room. Today, I am i
 This place is easy to find because the signs are very clear (Image 2). They say 'dua room' in English, with the Chinese and Japanese characters for dua room next to them.
 
 ![image](https://files.catbox.moe/86j1hy.jpg)
-
+layout: article
 ---
 
 # Prayer Room Singapore Changi Airport: Terminal 2 Musalla, Wudu Access and Muslim Transit Guide

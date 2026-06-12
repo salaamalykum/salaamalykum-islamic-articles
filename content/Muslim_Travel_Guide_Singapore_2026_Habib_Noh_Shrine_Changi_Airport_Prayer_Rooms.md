@@ -28,7 +28,7 @@ Habib Noh is the local Singaporean transliteration. If we follow our naming habi
 The domed building in the picture below is his shrine. This mosque actually started as a small prayer room built next to the shrine by Habib Nuh's friend, Haji Muhammad Salleh. It was later expanded into the mosque you see today.
 
 ![image](https://files.catbox.moe/rvl2do.jpg)
-
+layout: article
 ---
 
 # Muslim Travel Guide Singapore 2026: Habib Noh Shrine, Changi Airport Prayer Rooms and Mosque Route
